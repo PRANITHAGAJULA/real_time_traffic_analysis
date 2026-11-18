@@ -1,0 +1,4 @@
+Location,Vehicle_Count,Average_Speed,Congestion_Level
+Road_B,2,47.5,Low Congestion
+Road_C,1,30.0,Medium Congestion
+Road_A,3,18.333333333333332,High Congestion

@@ -1,0 +1,7 @@
+Vehicle_ID,Location,Vehicle_Type,Speed,Timestamp
+V001,Road_A,Car,18,2026-11-16 09:00:05
+V002,Road_A,Bus,22,2026-11-16 09:00:12
+V003,Road_B,Bike,45,2026-11-16 09:00:18
+V004,Road_A,Car,15,2026-11-16 09:00:25
+V005,Road_B,Car,50,2026-11-16 09:00:31
+V006,Road_C,Truck,30,2026-11-16 09:00:40
